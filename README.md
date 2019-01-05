@@ -21,6 +21,7 @@ Current build status
 
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/libuv-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/libuv-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/libuv-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/libuv-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5c3114db4e246e0700ce95c8/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/libuv-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
